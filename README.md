@@ -6,7 +6,7 @@
 # UNKO: UNKO is Not Keras Optimization
 UNKOは、岩佐 幸翠が作成した深層学習の為の簡易的なフレームワークです。
 UNKO: UNKO is Not Keras Optimizationという名称は、UNKOがKerasに強い影響を受けたAPI設計であるにも関わらず、
-特にKerasのソースコードをforkしたり、拡張したりした訳では無いことを示しています。
+特にKerasのソースコードをforkしたり、拡張したり、何かしらの優位性があったりする訳では無いことを示しています。
 
 # Requirements
 Python 3.5以降を想定して記述されています。
